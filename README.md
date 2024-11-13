@@ -10,4 +10,4 @@ From the graphs, it can be seen that the accuracy does not exceed 0.86, most lik
 
 For more details, please refer to the Jupyter file and the links within.
 
-The project, along with the oral presentation, resulted in a grade of 27/30.
+The project together with the oral presentation and various theory questions led to the grade 27/30.
